@@ -8,6 +8,7 @@ public class UpdateCustomerLimitByList1Application {
 
 	public static void main(String[] args) {
 		SpringApplication.run(UpdateCustomerLimitByList1Application.class, args);
+		Sysout
 	}
 
 }
